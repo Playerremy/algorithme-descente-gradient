@@ -23,7 +23,7 @@ $$
 Le minimum est obtenu lorsque le gradient est nul. En résolvant le système associé, on trouve :
 
 $$
-(x_1^*,x_2^*) = \left(\frac{1}{3},\frac{1}{3}\right)
+(x_1^{\ast}, x_2^{\ast}) = \left(\frac{1}{3}, \frac{1}{3}\right)
 $$
 
 ## Algorithme
